@@ -145,7 +145,7 @@ const ChatBotHelper = () => {
     
       {id: "15",
       options: [
-        { value: 1, label: "Yes", trigger: "32" }, // "Yes" Goes to Group-I
+        { value: 1, label: "Yes", trigger: "34" }, // "Yes" Goes to Group-I
         { value: 2, label: "No", trigger: "16" }, // "No" Goes to Group-S
       ]
     },
